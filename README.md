@@ -1,2 +1,2 @@
 # ToDo-App
-Todo application
+Mobile Application
